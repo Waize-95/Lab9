@@ -1,0 +1,27 @@
+.First-Div {
+    width: 250px;
+    height: 360px;
+    background-color: #add8e6; 
+    border-width: 3px;
+    border-color: #333333;
+    border-style: solid;
+    border-radius: 10%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+#myImage{
+    width:280px;
+    height:250px;
+    padding:5px;
+    border-radius: 10%;
+    margin: 10px;
+    border-width: 3px;
+}
+.normal-para{
+    color: green;
+
+}
+.fav-para{
+    color:purple;
+}
