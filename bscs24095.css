@@ -17,6 +17,7 @@
     border-radius: 10%;
     margin: 10px;
     border-width: 3px;
+    text-align: center;
 }
 .normal-para{
     color: green;
@@ -24,4 +25,15 @@
 }
 .fav-para{
     color:purple;
+}
+h1{
+    color:gold;
+    text-align: center;
+}
+h3{
+    color:gold;
+}
+body{
+    color:gold;
+    background-color:black;
 }
